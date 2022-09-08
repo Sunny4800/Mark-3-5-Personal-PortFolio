@@ -1,6 +1,6 @@
 # PortFolio
 <br>⬤ Hello ! My name is Sunny Singh , a frontend web developer.This is my portfolio.
-<br>⬤ It is a portfolio website made to showcase my projects and Blog
+<br>⬤ It is a portfolio website made to showcase my projects and Blogs.
 <br>⬤ I have hosted my portfolio website on netlify.
 ## Tech Stacks Used -
 <br>⬤ HTML<br>
