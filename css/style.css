@@ -428,8 +428,8 @@ nav ul li{
     .logo{
         padding-left: 50px;
     }
-    .text{
-        margin-left: 20px;
+  .text{
+        display: none;
     }
     .leftcol img{
         width: 120%; 
