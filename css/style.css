@@ -1,13 +1,14 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
-    
+    padding: 0;  
+}
+body{
+    background-color: #EBEBD3;
 }
 header{
     height: 55vh;
     width: 100%;
-    background-color: #EBEBD3;
     /* clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);     */
     /* clip-path: polygon(0 1%, 100% 0, 100% 50%, 0% 50%); */
 
