@@ -309,7 +309,6 @@ nav{
     margin-bottom: 10px;
 }
 .projectbox:hover{
-    background: #7a00ff;
     color: white;
     transition: 0.4s;
 }
