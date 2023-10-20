@@ -71,6 +71,7 @@ nav{
 }
 #about{
     padding: 50px 50px;
+    background-image: url('/images/bg.jpg');
 }
 .info{
     font-weight: bold;
