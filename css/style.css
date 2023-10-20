@@ -145,6 +145,7 @@ nav{
     padding-bottom: 2rem;
     border-left: .2rem solid black;
     position: relative;
+    color: white;
 }
 .education .row1 .col1 .box::before{
     content: '';
