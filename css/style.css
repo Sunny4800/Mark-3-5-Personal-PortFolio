@@ -309,7 +309,6 @@ nav{
     margin-bottom: 10px;
 }
 .projectbox:hover{
-    color: white;
     transition: 0.4s;
 }
 #blogs{
@@ -321,7 +320,6 @@ nav{
     margin-bottom: 1rem;
 }
 #blogs .project-row #imghov:hover{
-    color: #fff;
     cursor: pointer;
 }
 .connect{
